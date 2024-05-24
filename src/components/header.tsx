@@ -14,7 +14,7 @@ export function Header() {
                 <Separator orientation="vertical" className="h-6"/>
 
                 <nav className="flex items-center space-x-4 lg:space-x-6">
-                    <NavLink href="/">
+                    <NavLink href="/app/dashboard">
                         <Home className="h- w-4" />
                         Inicio
                     </NavLink>
